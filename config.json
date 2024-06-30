@@ -1,0 +1,13 @@
+{
+    "prefix": ".",
+    "token": "YOUR_BOT_TOKEN",
+    "language": "en",
+    "server_id": "PTERODACTYL_SERVER_ID",
+    "api_key": "PTERODACTYL_USER_API_KEY",
+    "panel_link": "HOSTING_PANEL_LINK INCLUDING https:// or http://",
+    "whitelist": {
+        "start": ["USERID"],
+        "stop": ["USERID"],
+        "execute": ["USERID"]
+    }
+}
