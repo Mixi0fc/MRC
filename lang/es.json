@@ -1,0 +1,13 @@
+{
+    "bot_connected": "¡{bot_name} se ha conectado a Discord!",
+    "no_permission_start": "No tienes permiso para iniciar el servidor.",
+    "server_started": "Servidor {server_id} iniciado con éxito.",
+    "error_starting": "Error al iniciar el servidor.",
+    "no_permission_stop": "No tienes permiso para detener el servidor.",
+    "server_stopped": "Servidor {server_id} detenido con éxito.",
+    "error_stopping": "Error al detener el servidor.",
+    "no_permission_execute": "No tienes permiso para ejecutar comandos en el servidor.",
+    "command_executed": "Comando ejecutado con éxito en el servidor {server_id}.",
+    "error_executing": "Error al ejecutar el comando en el servidor.",
+    "language_selected": "Idioma seleccionado: Español."
+}
