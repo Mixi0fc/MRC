@@ -7,7 +7,7 @@
 - Redistribution allowed (with credits)
 
 
-**Made with love <3** by naoofc on Discord
+**Made with love <3**  |   by naoofc on Discord
 
 There's no help community, if you need something create a issue
 
