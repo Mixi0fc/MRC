@@ -36,5 +36,5 @@ Where do I find my API KEY?
 
 Where do I find my panel link?
 
-- Seriusly? It's the link that you use to access the host. For example: https://panel.besthosteverseen.ru/
+- Seriusly? It's the link that you use to access the host. For example: [https://panel.infiniteram.ru/](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUXbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXA%3D)
 - You have to add https:// or http:// on your link. Coppy it from your hosting's main page and paste it
