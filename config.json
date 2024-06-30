@@ -6,8 +6,8 @@
     "api_key": "PTERODACTYL_USER_API_KEY",
     "panel_link": "HOSTING_PANEL_LINK INCLUDING https:// or http://",
     "whitelist": {
-        "start": ["USERID"],
-        "stop": ["USERID"],
+        "start": ["USERID", "USERID2", "USERID3"],
+        "stop": ["USERID", "USERID2"],
         "execute": ["USERID"]
     }
 }
